@@ -16,7 +16,7 @@
     "@expo/samples": "2.1.1",
     "@mdi/font": "^3.0.39",
     "eslint-config-expo": "^6.0.0-rc.5",
-    "expo": "^30.0.1",
+    "expo": "^46.0.14",
     "prettier": "^1.14.3",
     "react": "16.3.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
